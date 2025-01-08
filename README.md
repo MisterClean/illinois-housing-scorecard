@@ -59,7 +59,13 @@ The scripts generate several output files in the `data/output` directory:
 - `processed_inventory.csv`: Processed inventory data
 - `inventory_comparison.csv`: Inventory comparisons across time periods
 
-### Visualizations (in data/output)
+### Visualizations
+
+#### Interactive Datawrapper Charts
+- [Active Listings](https://www.datawrapper.de/_/l8RIz/): For-sale inventory trends across Illinois MSAs
+- [Median Days to Pending Sale](https://www.datawrapper.de/_/YtVgu/): Time on market trends for Illinois properties
+
+#### Local Output (in data/output)
 - `housing_inventory.png`: Bar chart showing inventory changes across Illinois MSAs
 - Additional PNG files with trends and comparisons generated in the output directory
 
