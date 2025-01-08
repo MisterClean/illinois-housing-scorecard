@@ -1,48 +1,63 @@
-"metropolitan_area","metric","nov_19","nov_24","percent_change"
-"United States","for_sale_inventory",1560531,1157072,-25.8539561213459
-"Mount Vernon","for_sale_inventory",228,71,-68.859649122807
-"Bloomington","for_sale_inventory",974,316,-67.5564681724846
-"Champaign-Urbana","for_sale_inventory",1234,438,-64.5056726094003
-"Peoria","for_sale_inventory",3065,1133,-63.0342577487765
-"Springfield","for_sale_inventory",1259,484,-61.5567911040508
-"Ottawa-Peru","for_sale_inventory",925,396,-57.1891891891892
-"Decatur","for_sale_inventory",642,305,-52.4922118380062
-"Danville","for_sale_inventory",338,169,-50
-"Quincy","for_sale_inventory",391,198,-49.3606138107417
-"Chicago-Naperville-Elgin","for_sale_inventory",47938,24503,-48.8860611623347
-"Rockford","for_sale_inventory",1572,825,-47.5190839694656
-"Sterling-Rock Falls","for_sale_inventory",351,190,-45.8689458689459
-"Kankakee","for_sale_inventory",493,313,-36.5111561866126
-"Davenport-Moline-Rock Island","for_sale_inventory",1718,1318,-23.2828870779977
-"Carbondale-Marion","for_sale_inventory",608,536,-11.8421052631579
-"United States","median_days_to_pending",31,24,-22.5806451612903
-"Springfield","median_days_to_pending",55,7,-87.2727272727273
-"Bloomington","median_days_to_pending",57,8,-85.9649122807018
-"Peoria","median_days_to_pending",61,11,-81.9672131147541
-"Decatur","median_days_to_pending",61,12,-80.327868852459
-"Danville","median_days_to_pending",82,19,-76.8292682926829
-"Carbondale-Marion","median_days_to_pending",85,22,-74.1176470588235
-"Ottawa-Peru","median_days_to_pending",53,14,-73.5849056603774
-"Champaign-Urbana","median_days_to_pending",50,16,-68
-"Rockford","median_days_to_pending",28,9,-67.8571428571429
-"Chicago-Naperville-Elgin","median_days_to_pending",38,16,-57.8947368421053
-"Sterling-Rock Falls","median_days_to_pending",47,20,-57.4468085106383
-"Davenport-Moline-Rock Island","median_days_to_pending",37,17,-54.0540540540541
-"Kankakee","median_days_to_pending",29,15,-48.2758620689655
-"Quincy","median_days_to_pending",NA,10,NA
-"United States","median_list_price",290467,396300,36.4354642696072
-"Springfield","median_list_price",147767,169933,15.0006429040313
-"Chicago-Naperville-Elgin","median_list_price",290967,340000,16.8517392006654
-"Carbondale-Marion","median_list_price",138950,163317,17.536523929471
-"Peoria","median_list_price",128967,154967,20.1601960191367
-"Quincy","median_list_price",145267,181133,24.6897092939208
-"Davenport-Moline-Rock Island","median_list_price",146167,182633,24.9481757168171
-"Ottawa-Peru","median_list_price",138300,179683,29.9226319595083
-"Kankakee","median_list_price",161600,221567,37.1082920792079
-"Mount Vernon","median_list_price",125267,172000,37.3067128613282
-"Decatur","median_list_price",112433,159350,41.728851849546
-"Rockford","median_list_price",143900,208825,45.1181375955525
-"Danville","median_list_price",86167,127033,47.4265089883598
-"Champaign-Urbana","median_list_price",157967,233233,47.6466603784335
-"Bloomington","median_list_price",153300,230633,50.4455316373125
-"Sterling-Rock Falls","median_list_price",91233,141600,55.2069974680214
+"metropolitan_area","metric","nov_19","nov_24","percent_change","oct_19","oct_24"
+"United States","for_sale_inventory",1560531,1157072,-25.8539561213459,NA,NA
+"Mount Vernon","for_sale_inventory",228,71,-68.859649122807,NA,NA
+"Bloomington","for_sale_inventory",974,316,-67.5564681724846,NA,NA
+"Champaign-Urbana","for_sale_inventory",1234,438,-64.5056726094003,NA,NA
+"Peoria","for_sale_inventory",3065,1133,-63.0342577487765,NA,NA
+"Springfield","for_sale_inventory",1259,484,-61.5567911040508,NA,NA
+"Ottawa-Peru","for_sale_inventory",925,396,-57.1891891891892,NA,NA
+"Decatur","for_sale_inventory",642,305,-52.4922118380062,NA,NA
+"Danville","for_sale_inventory",338,169,-50,NA,NA
+"Quincy","for_sale_inventory",391,198,-49.3606138107417,NA,NA
+"Chicago-Naperville-Elgin","for_sale_inventory",47938,24503,-48.8860611623347,NA,NA
+"Rockford","for_sale_inventory",1572,825,-47.5190839694656,NA,NA
+"Sterling-Rock Falls","for_sale_inventory",351,190,-45.8689458689459,NA,NA
+"Kankakee","for_sale_inventory",493,313,-36.5111561866126,NA,NA
+"Davenport-Moline-Rock Island","for_sale_inventory",1718,1318,-23.2828870779977,NA,NA
+"Carbondale-Marion","for_sale_inventory",608,536,-11.8421052631579,NA,NA
+"United States","median_days_to_close",NA,NA,-5.55555555555556,36,34
+"Champaign-Urbana","median_days_to_close",NA,NA,-14.2857142857143,42,36
+"Bloomington","median_days_to_close",NA,NA,-13.953488372093,43,37
+"Kankakee","median_days_to_close",NA,NA,-12.5,40,35
+"Chicago-Naperville-Elgin","median_days_to_close",NA,NA,-11.9047619047619,42,37
+"Rockford","median_days_to_close",NA,NA,-11.1111111111111,36,32
+"Ottawa-Peru","median_days_to_close",NA,NA,-7.31707317073171,41,38
+"Decatur","median_days_to_close",NA,NA,-5.71428571428571,35,33
+"Peoria","median_days_to_close",NA,NA,-2.85714285714286,35,34
+"Davenport-Moline-Rock Island","median_days_to_close",NA,NA,0,35,35
+"Springfield","median_days_to_close",NA,NA,2.94117647058824,34,35
+"Carbondale-Marion","median_days_to_close",NA,NA,NA,NA,41
+"Quincy","median_days_to_close",NA,NA,NA,NA,37
+"Danville","median_days_to_close",NA,NA,NA,NA,36
+"Sterling-Rock Falls","median_days_to_close",NA,NA,NA,NA,34
+"United States","median_days_to_pending",31,24,-22.5806451612903,NA,NA
+"Springfield","median_days_to_pending",55,7,-87.2727272727273,NA,NA
+"Bloomington","median_days_to_pending",57,8,-85.9649122807018,NA,NA
+"Peoria","median_days_to_pending",61,11,-81.9672131147541,NA,NA
+"Decatur","median_days_to_pending",61,12,-80.327868852459,NA,NA
+"Danville","median_days_to_pending",82,19,-76.8292682926829,NA,NA
+"Carbondale-Marion","median_days_to_pending",85,22,-74.1176470588235,NA,NA
+"Ottawa-Peru","median_days_to_pending",53,14,-73.5849056603774,NA,NA
+"Champaign-Urbana","median_days_to_pending",50,16,-68,NA,NA
+"Rockford","median_days_to_pending",28,9,-67.8571428571429,NA,NA
+"Chicago-Naperville-Elgin","median_days_to_pending",38,16,-57.8947368421053,NA,NA
+"Sterling-Rock Falls","median_days_to_pending",47,20,-57.4468085106383,NA,NA
+"Davenport-Moline-Rock Island","median_days_to_pending",37,17,-54.0540540540541,NA,NA
+"Kankakee","median_days_to_pending",29,15,-48.2758620689655,NA,NA
+"Quincy","median_days_to_pending",NA,10,NA,NA,NA
+"United States","median_list_price",290467,396300,36.4354642696072,NA,NA
+"Springfield","median_list_price",147767,169933,15.0006429040313,NA,NA
+"Chicago-Naperville-Elgin","median_list_price",290967,340000,16.8517392006654,NA,NA
+"Carbondale-Marion","median_list_price",138950,163317,17.536523929471,NA,NA
+"Peoria","median_list_price",128967,154967,20.1601960191367,NA,NA
+"Quincy","median_list_price",145267,181133,24.6897092939208,NA,NA
+"Davenport-Moline-Rock Island","median_list_price",146167,182633,24.9481757168171,NA,NA
+"Ottawa-Peru","median_list_price",138300,179683,29.9226319595083,NA,NA
+"Kankakee","median_list_price",161600,221567,37.1082920792079,NA,NA
+"Mount Vernon","median_list_price",125267,172000,37.3067128613282,NA,NA
+"Decatur","median_list_price",112433,159350,41.728851849546,NA,NA
+"Rockford","median_list_price",143900,208825,45.1181375955525,NA,NA
+"Danville","median_list_price",86167,127033,47.4265089883598,NA,NA
+"Champaign-Urbana","median_list_price",157967,233233,47.6466603784335,NA,NA
+"Bloomington","median_list_price",153300,230633,50.4455316373125,NA,NA
+"Sterling-Rock Falls","median_list_price",91233,141600,55.2069974680214,NA,NA

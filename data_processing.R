@@ -24,7 +24,7 @@ msa_names <- c(
 priority_cities <- names(msa_names)
 
 process_metric <- function(file_path) {
-  # Extract metric name from file path
+  # Extract metric name from file path, removing any directory parts
   metric_name <- tools::file_path_sans_ext(basename(file_path))
   
   # Read data
@@ -111,15 +111,11 @@ process_metric <- function(file_path) {
   return(comparison_df)
 }
 
-# Configure data sources - add new metrics here
-data_sources <- c(
-  "for_sale_inventory",
-  "median_days_to_pending",
-  "median_list_price"
-)
+# Get all CSV files from input directory
+data_sources <- list.files(path = "data/input", pattern = "\\.csv$", full.names = TRUE)
 
-# Process all configured data sources
-all_data <- map_dfr(paste0(data_sources, ".csv"), process_metric)
+# Process all CSV files
+all_data <- map_dfr(data_sources, process_metric)
 
 # Sort the combined results
 final_data <- all_data %>%
@@ -131,7 +127,7 @@ final_data <- all_data %>%
   select(-sort_order)
 
 # Write the final comparison to CSV
-write.csv(final_data, "illinois_housing_metric_comparison.csv", row.names = FALSE)
+write.csv(final_data, "data/output/illinois_housing_metric_comparison.csv", row.names = FALSE)
 
 # Print the results
 print(final_data)
