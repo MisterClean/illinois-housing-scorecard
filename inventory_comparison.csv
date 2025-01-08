@@ -1,0 +1,32 @@
+"metropolitan_area","metric","nov_19","nov_24","percent_change"
+"United States","for_sale_inventory",1560531,1157072,-25.8539561213459
+"Mount Vernon","for_sale_inventory",228,71,-68.859649122807
+"Bloomington","for_sale_inventory",974,316,-67.5564681724846
+"Champaign-Urbana","for_sale_inventory",1234,438,-64.5056726094003
+"Peoria","for_sale_inventory",3065,1133,-63.0342577487765
+"Springfield","for_sale_inventory",1259,484,-61.5567911040508
+"Ottawa-Peru","for_sale_inventory",925,396,-57.1891891891892
+"Decatur","for_sale_inventory",642,305,-52.4922118380062
+"Danville","for_sale_inventory",338,169,-50
+"Quincy","for_sale_inventory",391,198,-49.3606138107417
+"Chicago-Naperville-Elgin","for_sale_inventory",47938,24503,-48.8860611623347
+"Rockford","for_sale_inventory",1572,825,-47.5190839694656
+"Sterling","for_sale_inventory",351,190,-45.8689458689459
+"Kankakee","for_sale_inventory",493,313,-36.5111561866126
+"Davenport-Moline-Rock Island","for_sale_inventory",1718,1318,-23.2828870779977
+"Carbondale-Marion","for_sale_inventory",608,536,-11.8421052631579
+"United States","median_days_to_pending",31,24,-22.5806451612903
+"Springfield","median_days_to_pending",55,7,-87.2727272727273
+"Bloomington","median_days_to_pending",57,8,-85.9649122807018
+"Peoria","median_days_to_pending",61,11,-81.9672131147541
+"Decatur","median_days_to_pending",61,12,-80.327868852459
+"Danville","median_days_to_pending",82,19,-76.8292682926829
+"Carbondale-Marion","median_days_to_pending",85,22,-74.1176470588235
+"Ottawa-Peru","median_days_to_pending",53,14,-73.5849056603774
+"Champaign-Urbana","median_days_to_pending",50,16,-68
+"Rockford","median_days_to_pending",28,9,-67.8571428571429
+"Chicago-Naperville-Elgin","median_days_to_pending",38,16,-57.8947368421053
+"Sterling","median_days_to_pending",47,20,-57.4468085106383
+"Davenport-Moline-Rock Island","median_days_to_pending",37,17,-54.0540540540541
+"Kankakee","median_days_to_pending",29,15,-48.2758620689655
+"Quincy","median_days_to_pending",NA,10,NA
